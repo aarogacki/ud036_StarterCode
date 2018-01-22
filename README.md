@@ -27,14 +27,4 @@ NONE
 
 ## Miscellaneous
 
-This README document is a template given to Udacity students by PhilipCoach. Jeff assisted with
-the verbage for how to run the program.
-[post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
-
-
-
-
-
- 
- 
- 
+This README document is a [template](https://discussions.udacity.com/t/readme-files-in-project-1/23524) given to Udacity students by PhilipCoach. Jeff assisted with the verbage for how to run the program.
